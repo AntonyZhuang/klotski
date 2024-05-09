@@ -1,6 +1,6 @@
 Disclaimer: 
-1. This is a game that needs to be compiled on De1-Soc board using nios II processor.
-2. This project is developed by Antony Weihong Zhuang(me) and Yahe Zhang.
+1. This is a game that needs to be compiled on De1-Soc board using nios II processor. You will need to connect your DE1-soc Board with a PS2keyboard and a speaker to fully enjoy our game!
+3. This project is developed by Antony Weihong Zhuang(me) and Yahe Zhang.
 
 Commercial use prohibited. Plagiarism is not allowed. All rights are reserved.
 
